@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeerChooser</string>
+    <string name="findBeerButton">Beer info</string>
+    <string name="instructions">Select a beer from the following: </string>
+    <array name="beerTypes">
+        <item>Choose a beer from the list:</item>
+        <item>Summers</item>
+        <item>Northern</item>
+        <item>Corona</item>
+        <item>Toohys</item>
+        <item>VB</item>
+
+    </array>
+</resources>
